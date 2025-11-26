@@ -31,6 +31,13 @@ Defensive security and web application security training.
 **UnjankYourInstagram** — Professional Instagram cleanup tool (Coming Q1 2026)
 - 245+ on waitlist | Zero bans | Smart automation with enterprise-grade safety
 
+### 🚧 Coming Mid-December
+**Code Playground** — Interactive coding sandbox for hands-on experimentation
+- Live code execution | Multiple languages | Shareable snippets
+
+**OWASP Labs** — Web application security training modules
+- Hands-on vulnerability testing | Real-world attack scenarios | Defense techniques
+
 ---
 
 ## 📝 Latest Articles
