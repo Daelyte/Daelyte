@@ -1,4 +1,4 @@
-# Hi, I'm James G. - AI Alchemist 🪄
+# Hi, I'm JG - AI Alchemist 🪄
 
 **Web Developer • Technical Writer • Cybersecurity Educator**
 
