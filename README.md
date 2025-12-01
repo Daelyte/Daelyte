@@ -24,7 +24,7 @@ Maya and Jesse navigate post-breakthrough healing through the lens of attachment
 
 *"The breakthrough isn't the end—it's the beginning. This is the story of what comes after: the messy, terrifying, beautiful work of staying."*
 
-**[→ Read The Forgotten Winter](https://www.jmfg.ca/stories/night-of-whispers-4)**
+**[→ Read The Forgotten Winter 4](https://www.jmfg.ca/stories/night-of-whispers-4)**
 
 ### 🟣 Purple Team Lab
 Hybrid security training uniting offense and defense. Toggle RED/BLUE perspectives and master tools from both sides.
