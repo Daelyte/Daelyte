@@ -4,28 +4,30 @@
 
 ---
 
+
 > Creating psychology-inspired, intuitive web experiences and insightful learning content.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-jmfg.ca-blue?style=for-the-badge&logo=twitter)](https://jmfg.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jgtoronto/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/CeresExe)
 
+
 ---
 
 ## 🚀 What I'm Building
 
-### ❄️ 🌨️ The Forgotten Winter 💎
-**NEW RELEASE - Book 4 of The Night of Whispers** (~90 min read)
+## 🧊 Red Team Diaries: The Ice Files
 
-Maya and Jesse navigate post-breakthrough healing through the lens of attachment theory—learning what it means to show up when proximity feels dangerous.
+Cybersecurity thrillers with **Agent 89 "Ice"**. Every attack technique maps to real penetration testing methodologies.
 
-- 🧊 **Proximity Triggers** — When closeness activates old wounds
-- 🔄 **Earned Security** — The messy work of rewiring attachment patterns
-- 💎 **Showing Up Anyway** — Building trust through consistent presence
+- [EP 01: Ice Protocol](https://jmfg.ca/ice-files) — Moon Company • ATLAS awakens (~40 min)
+- [EP 02: Cold Storage](https://jmfg.ca/cold-storage) — $40B crypto • Supply chain (~42 min)
+- [EP 03: Zero Day](https://jmfg.ca/zero-day) — ECB • Julia-hybrid • ToM (~42 min)
+- [EP 04: The Insider](https://jmfg.ca/the-insider) — NATO Hive • Plasticity debt (~45 min)
+- [FINALE EP 05: Dust](https://jmfg.ca/dust) — Mei's truth • ATLAS survives (~60 min)
 
-*"The breakthrough isn't the end—it's the beginning. This is the story of what comes after: the messy, unglamorous work of earning secure attachment one moment at a time, when your nervous system still remembers being cold."*
+*"Ice doesn't melt. Dust remembers."*
 
-→ [Read The Forgotten Winter](https://jmfg.ca/stories/night-of-whispers-4)
 
 ---
 
@@ -91,17 +93,18 @@ Defensive security and web application security training.
 
 ---
 
-## 🧊 Red Team Diaries: The Ice Files
+### ❄️ 🌨️ The Forgotten Winter 💎
+**NEW RELEASE - Book 4 of The Night of Whispers** (~90 min read)
 
-Cybersecurity thrillers with **Agent 89 "Ice"**. Every attack technique maps to real penetration testing methodologies.
+Maya and Jesse navigate post-breakthrough healing through the lens of attachment theory—learning what it means to show up when proximity feels dangerous.
 
-- [EP 01: Ice Protocol](https://jmfg.ca/ice-files) — Moon Company • ATLAS awakens (~40 min)
-- [EP 02: Cold Storage](https://jmfg.ca/cold-storage) — $40B crypto • Supply chain (~42 min)
-- [EP 03: Zero Day](https://jmfg.ca/zero-day) — ECB • Julia-hybrid • ToM (~42 min)
-- [EP 04: The Insider](https://jmfg.ca/the-insider) — NATO Hive • Plasticity debt (~45 min)
-- [FINALE EP 05: Dust](https://jmfg.ca/dust) — Mei's truth • ATLAS survives (~60 min)
+- 🧊 **Proximity Triggers** — When closeness activates old wounds
+- 🔄 **Earned Security** — The messy work of rewiring attachment patterns
+- 💎 **Showing Up Anyway** — Building trust through consistent presence
 
-*"Ice doesn't melt. Dust remembers."*
+*"The breakthrough isn't the end—it's the beginning. This is the story of what comes after: the messy, unglamorous work of earning secure attachment one moment at a time, when your nervous system still remembers being cold."*
+
+→ [Read The Forgotten Winter](https://jmfg.ca/stories/night-of-whispers-4)
 
 ---
 
