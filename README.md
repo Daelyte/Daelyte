@@ -102,8 +102,6 @@ Maya and Jesse navigate post-breakthrough healing through the lens of attachment
 - 🔄 **Earned Security** — The messy work of rewiring attachment patterns
 - 💎 **Showing Up Anyway** — Building trust through consistent presence
 
-*"The breakthrough isn't the end—it's the beginning. This is the story of what comes after: the messy, unglamorous work of earning secure attachment one moment at a time, when your nervous system still remembers being cold."*
-
 → [Read The Forgotten Winter](https://jmfg.ca/stories/night-of-whispers-4)
 
 ---
