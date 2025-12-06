@@ -136,10 +136,6 @@ Smart automation meets enterprise-grade safety. Remove non-followers without ris
 
 ---
 
-## 🆕 Coming Mid-December
-
-**Code Playground** — Interactive coding sandbox for hands-on experimentation
-- Live code execution | Multiple languages | Shareable snippets
 
 ---
 
@@ -214,5 +210,3 @@ Web application security training modules
 
 ---
 
-**💼 Open to AI-focused roles** — AI Sales • AI Strategy • AI Success / Enablement • AI Product • Frontend / Creative Tech  
-📍 Downtown Toronto / Remote • [Let's connect →](https://jmfg.ca/contact)
