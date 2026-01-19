@@ -11,5 +11,6 @@
 
 https://annas-archive.li/    
 
-<img width="5974" height="170" alt="anna_plug" src="https://github.com/user-attachments/assets/099292cd-ba8f-40f9-848c-9037a515b28c" />
+
+<img width="5980" height="170" alt="anna_ascii-art-text" src="https://github.com/user-attachments/assets/2bf9454e-7ad1-4220-910c-f89a4133347c" />
 
