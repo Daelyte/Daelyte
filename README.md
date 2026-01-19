@@ -8,4 +8,6 @@
 
 
 
-https://annas-archive.li/      <---- Anna’s Archive |  The largest truly open library in human history. 📈 61,654,285 books, 95,687,150 papers — preserved forever.
+https://annas-archive.li/     
+
+The largest truly open library in human history. 📈 61,654,285 books, 95,687,150 papers — preserved forever.
