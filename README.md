@@ -12,5 +12,7 @@
 https://annas-archive.li/    
 
 
-<img width="5980" height="170" alt="anna_ascii-art-text" src="https://github.com/user-attachments/assets/2bf9454e-7ad1-4220-910c-f89a4133347c" />
+<img width="2256" height="136" alt="ascii-art-text" src="https://github.com/user-attachments/assets/53701c80-6c0c-4253-85b0-1fba2aa75f3d" />
 
+
+<img width="2540" height="136" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/1ff8e80c-9ff0-4cb6-a999-413078211ea8" />
