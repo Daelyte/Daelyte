@@ -6,7 +6,7 @@ After a strategic retreat into non-digital progression — forging real-world ga
 
 **The campaign resumes:**  
 - 🎯 **jmfg.ca** — Psychology, cybersecurity, and tech battle reports **back online this week**  
-- 🏗️ **framearchtech.com** & **[wandanewz.com](https://www.wandanewz.com/)** — Major sites in the war chest, **Q3-Q4 launches**  
+- 🏗️ **https://framearchtech.com** & **[wandanewz.com](https://www.wandanewz.com/)** — Major sites in the war chest, **Q3-Q4 launches**  
 - 🚀 **Flagship launch**: Full website revival with brand-new **SDR (Software Defined Radio) section** — learning modules, deep-dive content, tactical workflows  
 
 ## 💾 The Arsenal  
