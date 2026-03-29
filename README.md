@@ -1,5 +1,4 @@
 # Daelyte  
-*Subatai Army General from the Golden Horde* — Toronto-based builder of web scrapers, OSINT tools, and SDR systems.  
 
 ## ⚔️ Battle-Ready Return  
 
@@ -24,7 +23,7 @@ The general never sleeps.
 
 
 ## 🔗 Connect  
-[![jmfg](https://img.shields.io/badge/jmfg.ca-01696F?style=flat&logo=website)](https://jmfg.ca) [![framearch](https://img.shields.io/badge/framearchtech.com-01696F?style=flat&logo=website)](https://framearchtech.com) [![wandanewz](https://img.shields.io/badge/wandanewz.com-01696F?style=flat&logo=website)](https://www.wandanewz.com/) [![GitHub](https://img.shields.io/badge/GitHub-01696F?style=flat&logo=github)](https://github.com/Daelyte) **Toronto, ON**
+[![jmfg](https://img.shields.io/badge/jmfg.ca-01696F?style=flat&logo=website)](https://jmfg.ca) [![framearch](https://img.shields.io/badge/framearchtech.com-01696F?style=flat&logo=website)](https://framearchtech.com) [![wandanewz](https://img.shields.io/badge/wandanewz.com-01696F?style=flat&logo=website)](https://www.wandanewz.com/) [![GitHub](https://img.shields.io/badge/GitHub-01696F?style=flat&logo=github)](https://github.com/Daelyte) **Biggest Canadian City**
 
 ---
 *⚔️ Deployed: March 2026. Horde assembly in progress.*
